@@ -1,0 +1,5 @@
+body{
+	font-size = 20px ;
+	color = #212411 ;
+	background-color = #23a21c ;
+}
